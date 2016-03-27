@@ -1,0 +1,8 @@
+1,April Sales,faculty,12,[]
+2,Dave Stacey,faculty,12,[]
+3,Ging Henie,student,6,[]
+4,Roy Flores,librarian,0,[]
+5,Elizabeth Harwell,librarian,0,[]
+6,Joshua Galindo,student,6,[]
+7,Justin Galindo,student,6,[]
+8,Jessica Galindo,faculty,12,[]
